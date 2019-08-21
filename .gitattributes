@@ -1,0 +1,2 @@
+190626/SAO_160118_R_1.0_01.fits filter=lfs diff=lfs merge=lfs -text
+190626/SAO_160118_Rdark_1.0_01.fits filter=lfs diff=lfs merge=lfs -text
